@@ -1,4 +1,4 @@
-{ "root": "build/"
+{ "root": "build/",
   "clean_urls": false,
     "routes": {
       "/**": "../public/index.html"}
